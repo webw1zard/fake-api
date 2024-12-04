@@ -41327,6 +41327,41 @@
     }
   ],
   "products": [
+    {
+      "id": "1",
+      "name": "Pillow",
+      "description": "Sleeping well is important.",
+      "price": "8.99",
+      "category": "Personal"
+    },
+    {
+      "id": "2",
+      "name": "Earphone",
+      "description": "You need this one if you love music.",
+      "price": "9.00",
+      "category": "Personal"
+    },
+    {
+      "id": "3",
+      "name": "Mouse",
+      "description": "Very useful if you love your computer.",
+      "price": "11.35",
+      "category": "Personal"
+    },
+    {
+      "id": "4",
+      "name": "Trash Can",
+      "description": "It will help you maintain cleanliness.",
+      "price": "3.95",
+      "category": "Sports"
+    },
+    {
+      "id": "5",
+      "name": "Eye Glasses",
+      "description": "It will make you read better.",
+      "price": "6.00",
+      "category": "Sports"
+    }
     
   ]
 }
